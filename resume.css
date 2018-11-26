@@ -1,0 +1,17 @@
+h4 {
+    color: #5a5d63;
+    text-transform: uppercase;
+    font-family: Oswald;
+    background-color: #fce1e0;
+}
+
+.header {
+    font-family: Oswald;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #5a5d63;
+}
+
+li {
+    font-family: Montserrat;
+}

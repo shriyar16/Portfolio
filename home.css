@@ -1,0 +1,60 @@
+.myname {
+    font-family: Montserrat;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.title {
+    font-family: Oswald;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #5a5d63;
+    font-weight: 300;
+    font-size: 75px;
+}
+
+.bar {
+    font-family: Roboto Condensed;
+    text-transform: uppercase;
+    color: black;
+}
+
+.preface {
+    font-family: Roboto;
+    color: black;
+    font-size: 20px;
+}
+
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 25px;
+}
+
+hello {
+    border: 50px solid black;
+}
+
+.project {
+    font-family: Oswald;
+    color: #5a5d63;
+    text-transform: uppercase;
+}
+.date {
+    font-family: Oswald;
+    color: #5a5d63;
+    text-transform: uppercase;
+
+}
+.class {
+    font-family: Oswald;
+    color: #5a5d63;
+    text-transform: uppercase;
+
+}
+
