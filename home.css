@@ -8,11 +8,10 @@
 
 .title {
     font-family: Oswald;
-    font-size: 50px;
+    font-size: 75px;
     text-transform: uppercase;
     color: #5a5d63;
     font-weight: 300;
-    font-size: 75px;
 }
 
 .bar {
@@ -36,9 +35,6 @@ td {
     padding: 25px;
 }
 
-hello {
-    border: 50px solid black;
-}
 
 .project {
     font-family: Oswald;
