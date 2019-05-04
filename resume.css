@@ -5,6 +5,10 @@ h4 {
     background-color: #fce1e0;
 }
 
+h6 {
+    font-family: Montserrat;
+}
+
 .header {
     font-family: Oswald;
     font-size: 30px;

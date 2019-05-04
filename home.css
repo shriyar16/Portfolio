@@ -4,7 +4,8 @@
     font-size: 35px;
     text-transform: uppercase;
     color: black;
-}
+} 
+
 
 .title {
     font-family: Oswald;
@@ -15,7 +16,7 @@
 }
 
 .bar {
-    font-family: Roboto Condensed;
+    font-family: Montserrat;
     text-transform: uppercase;
     color: black;
 }
@@ -51,8 +52,19 @@ td {
     font-family: Oswald;
     color: #5a5d63;
     text-transform: uppercase;
-
+    padding: 250px 0;
+	margin: 30px;
 }
 
-
-
+.update_home {
+    padding: 350px 0;
+	margin: 50px;
+    background-image: url("https://i.pinimg.com/originals/05/af/01/05af016a374eee9221b5bbc0314e33f2.jpg");
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 75px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 10px;
+    color: white;
+}
